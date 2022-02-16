@@ -1,0 +1,12 @@
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\bin\Debug\net6.0\DotNetExpert.Lead.Data.deps.json
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\bin\Debug\net6.0\DotNetExpert.Lead.Data.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\bin\Debug\net6.0\DotNetExpert.Lead.Data.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.csproj.AssemblyReference.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.AssemblyInfoInputs.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.AssemblyInfo.cs
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\ref\DotNetExpert.Lead.Data.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\refint\DotNetExpert.Lead.Data.dll

@@ -1,0 +1,168 @@
+﻿@page "/Leads/Index"
+@attribute [Authorize]
+@inherits DotNetExpert.Lead.Pages.Lead.IndexModel
+@inject DotNetExpert.Lead.Service.Service.LeadsService ls
+
+<div class="row layout-top-spacing">
+
+	<div id="tableSimple" class="col-lg-12 col-12 layout-spacing">
+		<div class="statbox widget box box-shadow">
+			@if (viewModels.Count() == 0)
+			{
+				<DotNetExpert.Lead.Pages.Shared.NoData Title="@DotNetExpert.Lead.Library.Models.Common.Entity.Leads.ToString()" />
+			}
+			else
+			{
+				<div class="widget-header">
+					<div class="row">
+						<div class="col-md-4">
+							<h4>Lead Data</h4>
+						</div>
+						<div class="col-md-4">
+							<div class="input-group">
+								<input type="text" class="form-control" placeholder="Search by name" @bind="SearchString" />
+								<div class="input-group-append">
+									<button class="btn btn-outline-info" @onclick="Filter">
+										<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search toggle-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+									</button>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 text-right">
+							<a href='/Lead/New' class="btn btn-outline-secondary" role="button"><i class="fa fa-plus"></i> New</a>
+						</div>
+					</div>
+					<hr />
+				</div>
+				<div class="widget-content widget-content-area">
+					<div class="table-responsive">
+						<table class="table table-bordered table-hover table-striped mb-4">
+							<thead>
+								<tr>
+                                    <th>Id</th>
+                                    <th>First Name</th>
+                                    <th>Last Name</th>
+                                    <th>Email</th>
+                                    <th>Phone</th>
+                                    <th>Category</th>
+                                    <th>Created By</th>
+                                    <th>Updated By</th>
+                                    <th>Date Created</th>
+                                    <th>Date Updated</th>
+									<th>Action</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var item in leadsViewModel)
+								{
+									<tr>
+                                        <td>@item.Id</td>
+                                        <td>@item.FirstName</td>
+                                        <td>@item.LastName</td>
+                                        <td>@item.Email</td>
+                                        <td>@item.Phone</td>
+                                        <td>@item.Category.Name</td>
+                                        <td>@item.CreatedByUserId</td>
+                                        <td>@item.UpdatedByUserId</td>
+                                        <td>@item.DateCreated</td>
+                                        <td>@item.DateUpdated</td>
+										<td class="text-center">
+											<a href="/Leads/Edit/@item.Id" data-toggle="tooltip" data-placement="top" title="" data-original-title="Edit"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check-circle text-primary"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg></a>
+											@*<a href="javascript:void(0);" data-placement="top" title="" data-original-title="Delete" data-toggle="modal" data-target="#deleteModal" @onclick="(() => DeleteConfirm(item.Id))"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x-circle text-danger"><circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line></svg></a>*@
+											<a href="javascript:void(0);"  data-placement="top" title="" data-original-title="Delete" data-bs-toggle="modal" data-bs-target="#exampleModal" @onclick="(() => DeleteConfirm(item.Id))"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x-circle text-danger"><circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line></svg></a>
+										</td>
+									</tr>
+								}
+
+							</tbody>
+						</table>
+
+						@if (this.pages > 1)
+						{
+
+							var startPage = Math.Max(1, this.page - 5);
+							var stopPage = Math.Min(this.pages, Math.Max(10, this.page + 4));
+							int i = 0;
+							<nav aria-label="Page navigation" id="navPagination">
+								<ul class="pagination justify-content-center">
+									<li class="page-item @(this.page == 1 ? "disabled" : "")">
+										<a class="page-link prev" href="JavaScript:void(0)" @onclick="(async ()=> await Paging(this.page - 1) )">
+											<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-left"><polyline points="15 18 9 12 15 6"></polyline></svg>
+										</a>
+									</li>
+
+									@for (i = startPage; i <= stopPage; i++)
+									{
+										int newValue = i;
+
+										<li class="page-item @(i == this.page ? "active" : "")"><a class="page-link" href="JavaScript:void(0)" @onclick="(async ()=> await Paging(newValue) )">@i</a></li>
+									}
+
+									<li class="page-item @(this.page == this.pages ? "disabled" : "")"><a class="page-link next" href="JavaScript:void(0)" @onclick="(async ()=> await Paging(this.page + 1) )"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right"><polyline points="9 18 15 12 9 6"></polyline></svg></a></li>
+								</ul>
+							</nav>
+
+						}
+					</div>
+				</div>
+
+				<!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="exampleModalLabel">Delete Lead</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <h4>Do you want to delete this Lead ??</h4>
+								<table class="table table-danger table-striped">
+                                    <tr>
+                                        <td>First Name:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().FirstName</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Last Name:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().LastName</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Email:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().Email</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Phone:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().Phone</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Category:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().Category.Name</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Created By:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().CreatedByUserId</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Updated By:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().UpdatedByUserId</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Date Created:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().DateCreated</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Date Updated:</td>
+                                        <td>@leadsViewModel.FirstOrDefault().DateUpdated</td>
+                                    </tr>
+								</table>
+                            </div>
+                            <div class="modal-footer">
+                                <button class="btn btn-warning" data-bs-dismiss="modal"><i class="flaticon-cancel-12"></i> No</button>
+								<button type="button" data-bs-dismiss="modal" class="btn btn-primary" @onclick="(async () => await Delete(viewModel.Id))">YES</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+			}
+		</div>
+	</div>
+</div>

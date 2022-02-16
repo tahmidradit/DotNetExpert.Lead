@@ -1,0 +1,17 @@
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\bin\Debug\net6.0\DotNetExpert.Lead.Repository.deps.json
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\bin\Debug\net6.0\DotNetExpert.Lead.Repository.runtimeconfig.json
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\bin\Debug\net6.0\DotNetExpert.Lead.Repository.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\bin\Debug\net6.0\DotNetExpert.Lead.Repository.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\bin\Debug\net6.0\DotNetExpert.Lead.Data.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\bin\Debug\net6.0\DotNetExpert.Lead.Data.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.csproj.AssemblyReference.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.AssemblyInfoInputs.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.AssemblyInfo.cs
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.csproj.CopyComplete
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\ref\DotNetExpert.Lead.Repository.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\DotNetExpert.Lead.Repository.genruntimeconfig.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Repository\obj\Debug\net6.0\refint\DotNetExpert.Lead.Repository.dll

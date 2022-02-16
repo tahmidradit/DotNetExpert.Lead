@@ -5,15 +5,15 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetExpert.Lead", "DotNetExpert.Lead\DotNetExpert.Lead.csproj", "{3DF5130B-B838-4370-A916-B8526A4DE951}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExpert.Lead.Data", "DotNetExpert.Lead.Data\DotNetExpert.Lead.Data.csproj", "{945EAA16-189D-48EC-921B-6553D61AC314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetExpert.Lead.Data", "DotNetExpert.Lead.Data\DotNetExpert.Lead.Data.csproj", "{945EAA16-189D-48EC-921B-6553D61AC314}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExpert.Lead.Repository", "DotNetExpert.Lead.Repository\DotNetExpert.Lead.Repository.csproj", "{F2D0B618-5139-4B26-93A8-BA1D8CE44602}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetExpert.Lead.Repository", "DotNetExpert.Lead.Repository\DotNetExpert.Lead.Repository.csproj", "{F2D0B618-5139-4B26-93A8-BA1D8CE44602}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExpert.Lead.Service", "DotNetExpert.Lead.Service\DotNetExpert.Lead.Service.csproj", "{7F8CFA49-06EB-430C-8F6A-1034FC666A67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetExpert.Lead.Service", "DotNetExpert.Lead.Service\DotNetExpert.Lead.Service.csproj", "{7F8CFA49-06EB-430C-8F6A-1034FC666A67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExpert.Lead.ViewModel", "DotNetExpert.Lead.ViewModel\DotNetExpert.Lead.ViewModel.csproj", "{BC94E8B6-6008-41B3-918C-618CE1922C0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetExpert.Lead.ViewModel", "DotNetExpert.Lead.ViewModel\DotNetExpert.Lead.ViewModel.csproj", "{BC94E8B6-6008-41B3-918C-618CE1922C0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetExpert.Lead.Library", "DotNetExpert.Lead.Library\DotNetExpert.Lead.Library.csproj", "{DEC1DF32-62EB-4EEE-967D-F0F14176AA95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetExpert.Lead.Library", "DotNetExpert.Lead.Library\DotNetExpert.Lead.Library.csproj", "{DEC1DF32-62EB-4EEE-967D-F0F14176AA95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

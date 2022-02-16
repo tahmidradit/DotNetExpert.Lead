@@ -1,0 +1,17 @@
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.ViewModel.deps.json
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.ViewModel.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.ViewModel.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.Data.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.Data.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.csproj.AssemblyReference.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.AssemblyInfoInputs.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.AssemblyInfo.cs
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.csproj.CoreCompileInputs.cache
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.csproj.CopyComplete
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\ref\DotNetExpert.Lead.ViewModel.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\DotNetExpert.Lead.ViewModel.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.Repository.dll
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\bin\Debug\net6.0\DotNetExpert.Lead.Repository.pdb
+D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.ViewModel\obj\Debug\net6.0\refint\DotNetExpert.Lead.ViewModel.dll

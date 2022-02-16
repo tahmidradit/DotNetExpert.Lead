@@ -19,16 +19,32 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Category/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Category/NewOrEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlcTmV3T3JFZGl0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Lead/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhZFxJbmRleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Lead/NewOrEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhZFxOZXdPckVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Pages/Shared/NoData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXE5vRGF0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/.NET/Web/GitRepo/DotNetExpert.Lead/DotNetExpert.Lead/Shared/LoginDisplay.razor]

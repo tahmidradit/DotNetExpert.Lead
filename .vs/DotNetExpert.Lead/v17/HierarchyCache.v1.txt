@@ -1,0 +1,308 @@
+﻿++Solution 'DotNetExpert.Lead' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead.sln
+++DotNetExpert.Lead.Data
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead.Data
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\dotnetexpert.lead.data.csproj
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\dotnetexpert.lead.data.csproj
+++Dependencies
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:>508
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:>543
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:>506
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:>507
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:>509
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>719
+++Analyzers
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:analyzers
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:analyzers
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:analyzers
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:analyzers
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:analyzers
+i:{3df5130b-b838-4370-a916-b8526a4de951}:analyzers
+++Frameworks
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:frameworks
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:frameworks
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:frameworks
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:frameworks
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:frameworks
+i:{3df5130b-b838-4370-a916-b8526a4de951}:frameworks
+++Packages
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:packages
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:packages
+i:{3df5130b-b838-4370-a916-b8526a4de951}:packages
+++Entity
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\entity\
+++AppUser.cs
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\entity\appuser.cs
+++BaseEntity.cs
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\entity\baseentity.cs
+++Category.cs
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\entity\category.cs
+++Department.cs
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\entity\department.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:c:\users\tahmid radit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:c:\users\tahmid radit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:c:\users\tahmid radit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:c:\users\tahmid radit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\users\tahmid radit\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:c:\users\tahmid radit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:c:\users\tahmid radit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:c:\users\tahmid radit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:c:\users\tahmid radit\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.data\microsoft.netcore.app
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\microsoft.netcore.app
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.viewmodel\microsoft.netcore.app
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.library\microsoft.netcore.app
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\microsoft.netcore.app
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\microsoft.netcore.app
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{945eaa16-189d-48ec-921b-6553d61ac314}:>851
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:>744
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>772
+++DotNetExpert.Lead.Service
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead.Service
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\dotnetexpert.lead.service.csproj
+++IService
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\iservice\
+++ICategoryService.cs
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\iservice\icategoryservice.cs
+++IService.cs
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\iservice\iservice.cs
+++Service
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\service\
+++CategoryService.cs
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.service\service\categoryservice.cs
+++Projects
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:projects
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:projects
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:projects
+i:{3df5130b-b838-4370-a916-b8526a4de951}:projects
+++DotNetExpert.Lead.Repository
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\dotnetexpert.lead.repository.csproj
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead.Repository
+++DotNetExpert.Lead.ViewModel
+i:{7f8cfa49-06eb-430c-8f6a-1034fc666a67}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.viewmodel\dotnetexpert.lead.viewmodel.csproj
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead.ViewModel
+++Category
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.viewmodel\category\
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\category\
+++CategoryDTO.cs
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.viewmodel\category\categorydto.cs
+++CategoryViewModel.cs
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.viewmodel\category\categoryviewmodel.cs
+++BaseViewModel.cs
+i:{bc94e8b6-6008-41b3-918c-618ce1922c0e}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.viewmodel\baseviewmodel.cs
+++DotNetExpert.Lead.Library
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead.Library
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.library\dotnetexpert.lead.library.csproj
+++Models
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.library\models\
+++Common.cs
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.library\models\common.cs
+++Paging.cs
+i:{dec1df32-62eb-4eee-967d-f0f14176aa95}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.library\models\paging.cs
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:>899
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:>900
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>770
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:>898
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>773
+++Data
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\
+++Migrations
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\
+++ApplicationDbContext.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\applicationdbcontext.cs
+++IRepository
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\irepository\
+++ICategoryRepository.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\irepository\icategoryrepository.cs
+++IRepository.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\irepository\irepository.cs
+++Repository
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\repository\
+++CategoryRepository.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\repository\categoryrepository.cs
+++Repository.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\repository\repository.cs
+++UnitOfWork
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\unitofwork\
+++IUnitOfWork.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\unitofwork\iunitofwork.cs
+++UnitOfWork.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\unitofwork\unitofwork.cs
+++00000000000000_CreateIdentitySchema.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\00000000000000_createidentityschema.cs
+++20220210092850_CreateCategoriesTable.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\20220210092850_createcategoriestable.cs
+++20220214170048_ChangeCategoryTable.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\20220214170048_changecategorytable.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\applicationdbcontextmodelsnapshot.cs
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\00000000000000_createidentityschema.designer.cs
+++20220210092850_CreateCategoriesTable.Designer.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\20220210092850_createcategoriestable.designer.cs
+++20220214170048_ChangeCategoryTable.Designer.cs
+i:{f2d0b618-5139-4b26-93a8-ba1d8ce44602}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead.repository\data\migrations\20220214170048_changecategorytable.designer.cs
+++DotNetExpert.Lead
+i:{00000000-0000-0000-0000-000000000000}:DotNetExpert.Lead
+++Connected Services 
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>720
+++Properties
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\properties\
+++wwwroot
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\
+++Areas
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\
+++Pages
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\pages\
+++Index.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\category\index.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\index.razor
+++Index.razor.cs
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\category\index.razor.cs
+++NewOrEdit.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\category\neworedit.razor
+++NewOrEdit.razor.cs
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\category\neworedit.razor.cs
+++Shared
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\shared\
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\pages\shared\
+++NoData.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\shared\nodata.razor
+++_Host.cshtml
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\_host.cshtml
+++_Layout.cshtml
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\_layout.cshtml
+++Counter.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\counter.razor
+++Error.cshtml
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\error.cshtml
+++LoginDisplay.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\logindisplay.razor
+++MainLayout.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\mainlayout.razor
+++NavMenu.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\surveyprompt.razor
+++_Imports.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\_imports.razor
+++App.razor
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\app.razor
+++appsettings.json
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\appsettings.json
+++Program.cs
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>783
+++launchSettings.json
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\properties\launchsettings.json
+++serviceDependencies.json
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\properties\servicedependencies.json
+++css
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\css\
+++favicon.ico
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\favicon.ico
+++Identity
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\
+++Error.cshtml.cs
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\pages\error.cshtml.cs
+++MainLayout.razor.css
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\shared\navmenu.razor.css
+++appsettings.Development.json
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{3df5130b-b838-4370-a916-b8526a4de951}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.2)
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>771
+++Microsoft.AspNetCore.Identity.UI (6.0.2)
+i:{3df5130b-b838-4370-a916-b8526a4de951}:>774
+++serviceDependencies.local.json
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\properties\servicedependencies.local.json
+++bootstrap
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\bootstrap\
+++open-iconic
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\
+++site.css
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\site.css
+++RevalidatingIdentityAuthenticationStateProvider.cs
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\revalidatingidentityauthenticationstateprovider.cs
+++bootstrap.min.css
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\bootstrap\bootstrap.min.css
+++font
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\readme.md
+++Account
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\pages\account\
+++bootstrap.min.css.map
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\bootstrap\bootstrap.min.css.map
+++fonts
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\fonts\
+++LogOut.cshtml
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\pages\account\logout.cshtml
+++_LoginPartial.cshtml
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\areas\identity\pages\shared\_loginpartial.cshtml
+++open-iconic-bootstrap.min.css
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{3df5130b-b838-4370-a916-b8526a4de951}:d:\projects\.net\web\gitrepo\dotnetexpert.lead\dotnetexpert.lead\wwwroot\css\open-iconic\font\fonts\open-iconic.woff

@@ -4,14 +4,14 @@
     "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj": {
+    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
-        "projectName": "DotNetExpert.Lead.Service",
-        "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
+        "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj",
+        "projectName": "DotNetExpert.Lead.Data",
+        "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj",
         "packagesPath": "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\obj\\",
+        "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TAHMID RADIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -54,7 +60,213 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj",
+        "projectName": "DotNetExpert.Lead.Repository",
+        "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj",
+        "packagesPath": "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAHMID RADIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj": {
+                "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
+        "projectName": "DotNetExpert.Lead.Service",
+        "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
+        "packagesPath": "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAHMID RADIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj": {
+                "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj"
+              },
+              "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj": {
+                "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj",
+        "projectName": "DotNetExpert.Lead.ViewModel",
+        "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TAHMID RADIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj": {
+                "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Data\\DotNetExpert.Lead.Data.csproj"
+              },
+              "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj": {
+                "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
