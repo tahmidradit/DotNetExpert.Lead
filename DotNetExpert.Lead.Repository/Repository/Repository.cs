@@ -153,8 +153,8 @@ namespace DotNetExpert.Lead.Repository.Repository
             }
             catch (Exception ex)
             {
-                //throw ex;
-                throw new Exception(ex.InnerException.InnerException.Message);
+                throw ex;
+                //throw new Exception(ex.InnerException.InnerException.Message);
             }
         }
         

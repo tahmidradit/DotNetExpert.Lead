@@ -16,12 +16,12 @@ namespace DotNetExpert.Lead.Repository.Repository
 
 		public override async Task<int> CountAsync(string search)
 		{
-			return await context.Leads.Include(x => x.Category).Where(x => x.FirstName.ToLower().Contains(search.ToLower())).CountAsync();
+			return await context.Leads.Where(x => x.FirstName.ToLower().Contains(search.ToLower())).CountAsync();
 		}
 
 		public override async Task<IEnumerable<Leads>> SearchAsync(string search, int skip, int limit)
 		{
-			var leads = context.Leads.Include(x => x.Category).Where(x => x.FirstName.ToLower().Contains(search.ToLower())).Skip(skip).Take(limit);
+			var leads = context.Leads.Where(x => x.FirstName.ToLower().Contains(search.ToLower())).Skip(skip).Take(limit);
 			return await leads.ToListAsync();
 		}
 	}

@@ -1,5 +1,6 @@
 ﻿using DotNetExpert.Lead.Library.Models;
 using DotNetExpert.Lead.Repository.Data;
+using DotNetExpert.Lead.Repository.UnitOfWork;
 using DotNetExpert.Lead.Service.IService;
 using DotNetExpert.Lead.Service.Service;
 using DotNetExpert.Lead.ViewModel.Category;
@@ -11,11 +12,13 @@ namespace DotNetExpert.Lead.Pages.Lead
 {
 	public class NewEditModel : ComponentBase
 	{
-        
 		[Inject]
 		protected ILeadsService leadsService { get; set; }
 
-		[Inject]
+        [Inject]
+        protected IUnitOfWork _unitOfWork { get; set; }
+
+        [Inject]
 		protected LeadService leadService { get; set; }
 
 		[Inject]
@@ -30,13 +33,6 @@ namespace DotNetExpert.Lead.Pages.Lead
 		
 		protected List<LeadsViewModel> viewModels = new List<LeadsViewModel>();
 
-		protected List<DotNetExpert.Lead.Data.Entity.Category> categoryViewModels = new List<DotNetExpert.Lead.Data.Entity.Category>();
-
-
-   //     protected override void OnInitialized()
-   //     {
-			//categoryViewModels = leadService.RenderCategories();
-   //     }
         protected override async Task OnParametersSetAsync()
 		{
 			
@@ -45,7 +41,7 @@ namespace DotNetExpert.Lead.Pages.Lead
 				Title = "Edit";
 				var countryLookup = await this.leadsService.GetByIdAsync(id);
 				viewModel = countryLookup;
-			}
+            }
 			
 		}
 		protected async Task Save()
@@ -53,7 +49,7 @@ namespace DotNetExpert.Lead.Pages.Lead
 			var User = (await AuthenticationStateProvider.GetAuthenticationStateAsync()).User.Claims;
 			viewModel.UpdatedByUserId = User.FirstOrDefault().Value;
 			viewModel.DateUpdated = DateTime.Now;
-
+			
 			if (viewModel.Id != 0)
 			{
 				viewModel.UpdatedByUserId = User.FirstOrDefault().Value;

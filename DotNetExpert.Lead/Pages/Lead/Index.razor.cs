@@ -10,10 +10,7 @@ namespace DotNetExpert.Lead.Pages.Lead
     {
         [Inject]
         protected ILeadsService leadsService { get; set; }
-        protected LeadsService LeadsService { get; set; }
-
         protected List<LeadsViewModel> viewModels = new List<LeadsViewModel>();
-
         protected LeadsViewModel viewModel = new LeadsViewModel();
         protected IEnumerable<LeadsViewModel> leadsViewModel { get; set; }
         protected string SearchString { get; set; }

@@ -110,8 +110,21 @@ namespace DotNetExpert.Lead.Service.Service
 
 		public async Task UpdateAsync(LeadsViewModel viewModel)
 		{
-			await this._unitOfWork.Leads.UpdateAsync(LeadsDTO.ConvertToEntity(viewModel));
-			await this._unitOfWork.CommitAsync();
+            //await this._unitOfWork.Leads.UpdateAsync(LeadsDTO.ConvertToEntity(viewModel));
+            //await this._unitOfWork.CommitAsync();
+
+            var findById = await context.Leads.Include(m => m.Category).FirstOrDefaultAsync(m => m.Id == viewModel.Id);
+			findById.FirstName = viewModel.FirstName;
+			findById.LastName = viewModel.LastName;
+			findById.Email = viewModel.Email;
+			findById.Phone = viewModel.Phone;
+			findById.CategoryId = viewModel.CategoryId;
+			//findById.CreatedByUserId = user.FirstOrDefault().Value;
+			//findById.UpdatedByUserId = user.FirstOrDefault().Value;
+			findById.DateCreated = viewModel.DateCreated;
+			findById.DateUpdated = viewModel.DateUpdated;
+			await context.SaveChangesAsync();
+
 		}
 	}
 }
