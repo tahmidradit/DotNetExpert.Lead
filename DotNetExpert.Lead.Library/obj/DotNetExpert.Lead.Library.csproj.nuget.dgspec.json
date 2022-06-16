@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {}
+    "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {
+    "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
+        "projectUniqueName": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
         "projectName": "DotNetExpert.Lead.Library",
-        "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
-        "packagesPath": "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\obj\\",
+        "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
+        "packagesPath": "C:\\Users\\TahmidRadit\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TAHMID RADIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\TahmidRadit\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

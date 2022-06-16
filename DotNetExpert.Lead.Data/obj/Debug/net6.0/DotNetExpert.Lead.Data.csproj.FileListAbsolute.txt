@@ -10,3 +10,15 @@ D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\
 D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\ref\DotNetExpert.Lead.Data.dll
 D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.pdb
 D:\Projects\.NET\Web\GitRepo\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\refint\DotNetExpert.Lead.Data.dll
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\bin\Debug\net6.0\DotNetExpert.Lead.Data.deps.json
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\bin\Debug\net6.0\DotNetExpert.Lead.Data.dll
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\bin\Debug\net6.0\DotNetExpert.Lead.Data.pdb
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.csproj.AssemblyReference.cache
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.AssemblyInfoInputs.cache
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.AssemblyInfo.cs
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.csproj.CoreCompileInputs.cache
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.dll
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\refint\DotNetExpert.Lead.Data.dll
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\DotNetExpert.Lead.Data.pdb
+D:\Project\dotnet\gitRepos\DotNetExpert.Lead\DotNetExpert.Lead.Data\obj\Debug\net6.0\ref\DotNetExpert.Lead.Data.dll

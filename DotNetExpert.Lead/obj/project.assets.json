@@ -2360,19 +2360,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\": {}
+    "C:\\Users\\TahmidRadit\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead\\DotNetExpert.Lead.csproj",
+      "projectUniqueName": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead\\DotNetExpert.Lead.csproj",
       "projectName": "DotNetExpert.Lead",
-      "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead\\DotNetExpert.Lead.csproj",
-      "packagesPath": "C:\\Users\\TAHMID RADIT\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead\\obj\\",
+      "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead\\DotNetExpert.Lead.csproj",
+      "packagesPath": "C:\\Users\\TahmidRadit\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TAHMID RADIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TahmidRadit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2386,11 +2386,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {
-              "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj"
+            "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {
+              "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj"
             },
-            "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj": {
-              "projectPath": "D:\\Projects\\.NET\\Web\\GitRepo\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj"
+            "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj": {
+              "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj"
             }
           }
         }
@@ -2444,7 +2444,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
