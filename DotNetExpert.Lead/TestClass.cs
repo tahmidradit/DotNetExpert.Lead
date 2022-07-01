@@ -1,6 +1,6 @@
 ﻿namespace DotNetExpert.Lead
 {
-    public class TestClass
+    public class TestClassTestCklass
     {
     }
 }
