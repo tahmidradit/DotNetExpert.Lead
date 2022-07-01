@@ -1984,11 +1984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
+      "projectUniqueName": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
       "projectName": "DotNetExpert.Lead.Service",
-      "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
+      "projectPath": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\DotNetExpert.Lead.Service.csproj",
       "packagesPath": "C:\\Users\\TahmidRadit\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\obj\\",
+      "outputPath": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TahmidRadit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2005,11 +2005,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj": {
-              "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj"
+            "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj": {
+              "projectPath": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Repository\\DotNetExpert.Lead.Repository.csproj"
             },
-            "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj": {
-              "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj"
+            "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj": {
+              "projectPath": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.ViewModel\\DotNetExpert.Lead.ViewModel.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {}
+    "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {}
   },
   "projects": {
-    "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {
+    "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
+        "projectUniqueName": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
         "projectName": "DotNetExpert.Lead.Library",
-        "projectPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
+        "projectPath": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\DotNetExpert.Lead.Library.csproj",
         "packagesPath": "C:\\Users\\TahmidRadit\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\dotnet\\gitRepos\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\obj\\",
+        "outputPath": "C:\\Users\\TahmidRadit\\Desktop\\DotNetExpert.Lead\\DotNetExpert.Lead.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TahmidRadit\\AppData\\Roaming\\NuGet\\NuGet.Config",
